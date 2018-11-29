@@ -8,7 +8,7 @@
 *หน้าต่างของโปรแกรม*
 
 1. ###### หน้าหลัก
-![capture-20181129-161737](https://user-images.githubusercontent.com/45420213/49213037-f6536e00-f3f5-11e8-804f-82aaa7b1f5af.png)
+![capture-20181129-165003](https://user-images.githubusercontent.com/45420213/49215823-42a1ac80-f3fc-11e8-8e3a-eafac76b1b04.png)
 
 - หมายเลข 1 เป็นปุ่มเริ่มโปรแกรม เพื่อเข้าสู่หน้าต่อไป
 

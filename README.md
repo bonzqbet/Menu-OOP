@@ -33,13 +33,10 @@ private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
 
 
 - หมายเลข 3 เป็นปุ่มเลือกเมนูอาหารหลัก จะมีปอบอัพเด้งขึ้นมา
-
+- หมายเลข 4 เป็นปุ่มเลือกเมนูน้ำต่างๆ
 
 ![test2](https://user-images.githubusercontent.com/45420213/49273241-ed6ea500-f4a6-11e8-9c2f-356dfb1fbac7.jpg)
 
-
-
-- หมายเลข 4 เป็นปุ่มเลือกเมนูน้ำต่างๆ
 - หน้านี้เป็นหน้าใส่จำนวนที่เราต้องการ
 
 ![capture-20181129-165629](https://user-images.githubusercontent.com/45420213/49214126-8397c200-f3f8-11e8-83ab-f325e5bcf668.png)

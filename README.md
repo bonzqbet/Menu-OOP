@@ -29,7 +29,8 @@ private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
 ```
 
 
-![capture-20181129-165140](https://user-images.githubusercontent.com/45420213/49213896-ee94c900-f3f7-11e8-9fd0-e88b47066715.png)
+![test1](https://user-images.githubusercontent.com/45420213/49272917-cc598480-f4a5-11e8-80cb-0a32cf32abae.jpg)
+
 
 - หมายเลข 3 เป็นปุ่มเลือกเมนูอาหารหลัก จะมีปอบอัพเด้งขึ้นมา
 - หมายเลข 4 เป็นปุ่มเลือกเมนูน้ำต่างๆ

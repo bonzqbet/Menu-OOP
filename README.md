@@ -37,8 +37,6 @@ private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {
 
 ![test2](https://user-images.githubusercontent.com/45420213/49273241-ed6ea500-f4a6-11e8-9c2f-356dfb1fbac7.jpg)
 
-![test2](https://user-images.githubusercontent.com/45420213/49273241-ed6ea500-f4a6-11e8-9c2f-356dfb1fbac7.jpg)
-
 
 
 - หมายเลข 4 เป็นปุ่มเลือกเมนูน้ำต่างๆ

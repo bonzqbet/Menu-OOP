@@ -4,7 +4,6 @@
 - เป็นโปรแกรมอย่างง่ายที่ผู้สนใจสามารถเข้ามาศึกษาได้
 ###### รายละเอียดของโปรแกรม
 ![capture-20181129-165003](https://user-images.githubusercontent.com/45420213/49215789-2c93ec00-f3fc-11e8-9c4d-2916d350fcbf.png)
-![capture-20181129-165003](https://www.img.in.th/images/c5c5eedb92a9bb3d2389fa046cd4676c.jpg)
 
 *หน้าต่างของโปรแกรม*
 
